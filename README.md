@@ -47,26 +47,6 @@
 - IDE : Eclipse
 ## 프로젝트 구조
 <pre>
-    ├─.settings
-├─build
-│  ├─action
-│  ├─classes
-│  │  ├─action
-│  │  ├─common
-│  │  ├─controller
-│  │  ├─dao
-│  │  ├─dto
-│  │  ├─servlet
-│  │  ├─test
-│  │  ├─vo
-│  │  └─websocket
-│  ├─common
-│  ├─controller
-│  ├─dao
-│  ├─dto
-│  ├─servlet
-│  ├─vo
-│  └─websocket
 ├─src
 │  ├─action
 │  ├─common
@@ -76,7 +56,6 @@
 │  ├─servlet
 │  ├─test
 │  ├─vo
-│  └─websocket
 └─WebContent
     ├─html
     ├─Images
